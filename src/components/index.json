@@ -1,0 +1,52 @@
+{
+    "experience": [
+        {
+        "id": "0",
+        "date": "10/2022 - Present",
+        "position": "Administrator",
+        "location": "Astana, Kazakhstan",
+        "company": "IE TTau Gym",
+        "description": [
+            "Webkassa",
+            "Accounting, reporting"
+        ]
+        },
+        {
+        "id": "1",
+        "date": "04/2021 - 08/2022",
+        "position": "Accountant",
+        "location": "Almaty, Kazakhstan",
+        "company": "LLP Regatta Consult",
+        "description": [
+            "Lead Accountant at LLP Sonmez Global Yapi ve Ticaret",
+            "Lead Accountant at LLP English Home KZ"
+        ]
+        },
+        {
+        "id": "2",
+        "date": "11/2020 - 03/2021",
+        "position": "Lead Accountant",
+        "location": "Astana, Kazakhstan",
+        "company": "LLP T&Y Group",
+        "description": [
+            "calculation of wages",
+            "VAT calculation",
+            "sending tax reports",
+            "payment of social payments"
+        ]
+        },
+        {
+        "id": "4",
+        "date": "02/2018 - 10/2020",
+        "position": "Sole Accountant",
+        "location": "Taraz, Kazakhstan",
+        "company": "LLP Voltman Taraz",
+        "description": [
+            "Taxpayer's office",
+            "Submission of static reports",
+            "Quarterly reports (200, 300)",
+            "Annual Report (100)"
+        ]
+        }
+    ]
+}
